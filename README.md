@@ -30,8 +30,8 @@ Netflix Movies and TV Shows dataset from Kaggle.
 
 ## How to Run
 Clone the repository and open the notebook:
--git clone https://github.com/akshat316-12/eda-project.git
--cd eda-project
+- git clone https://github.com/akshat316-12/eda-project.git
+- cd eda-project
 
 Open the notebook:
 notebooks/eda_analysis.ipynb
